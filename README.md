@@ -5,4 +5,6 @@ If you would like to contribute, Talk to me on [Hopson's Discord server](https:/
 
 ### Graphics
 - [OpenGL](https://github.com/Jackojc/HopsonResources/blob/master/opengl/opengl.md)
+
+### Languages
 - [Python](https://github.com/Jackojc/HopsonResources/blob/master/python/python.md)
