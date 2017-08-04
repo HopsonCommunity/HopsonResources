@@ -10,6 +10,6 @@ _Ranging from beginner to advanced._
 - Stackoverflow works fine, as long as it is strictly OpenGL related 
 - Tutorial websites, however I need a reason to why you should use this site over     any other.  (Be objective, please!) 
 - OpenGL theory videos (where topics such as PBR might be discussed; but no actual     code is being written. This only goes to a certain point for me though. Not a 1 hour     video with someone explaining how refraction works.) 
-- OpenGL papers/books. just like with tutorial websites a reason to why this     book/paper should be used over similar papers/books needs to be specified) 
+- OpenGL papers/books. just like with tutorial websites a reason to why this     book/paper should be used over similar papers/books needs to be specified
 - Simple shadertoy shaders (not super advanced ones that use hacks to achive the     effect, as it might not be applicable to real world openGL)
 
