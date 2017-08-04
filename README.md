@@ -3,5 +3,5 @@
 
 If you would like to contribute, Talk to me on [Hopson's Discord server](https://discord.gg/xvQaysR).
 
-**Current lists:**
-- Nothing here for now.
+### Graphics
+- [OpenGL](https://github.com/Jackojc/HopsonResources/blob/master/opengl/opengl.md)
