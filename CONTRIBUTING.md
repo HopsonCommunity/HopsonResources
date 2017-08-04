@@ -14,4 +14,6 @@ All contributions **must be discussed with relevant group** (Fellow OpenGL/C++/P
 - Discuss with Jackojc.
 - Outline what style of content you want in the list.
 - Appoint a number of peers to contribute to your list.
+- Adhere to the style used in the example directory.
+- Each list has 3 files, "contributors.md", "content.md" and "category.md" (Replace category with OpenGL, Python etc.)
 - See examples directory for more details.
