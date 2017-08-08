@@ -1,8 +1,27 @@
-# Python
+# Category/Topic Title
 
-- #### [Python Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [Advanced]
-    - A 3 hour workshop on metaprogramming in Python regarding both functions and classes.
+### Types of content:
+- List
+- Of
+- Sections
 
+> Notes
+> Here
 
-- #### [Pycon 2016 Archive](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw) [Beginner - Advanced]
-    - An archive of videos from Pycon 2016 with content ranging from tutorials to workshops and interesting projects. Videos for all skill levels.
+### Contributors:
+- Names
+- Of
+- Contributors
+
+# Resources
+
+### Section Title
+
+- #### [Title](Link) [Level of skill required (Beginner, Intermediate, Advanced, N/A)]
+    - A description of the content here.
+
+- #### [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://www.youtube.com/watch?v=QHHg99hwQGY) [N/A]
+    - A great talk about keeping players engaged and connected to your game, It's about Magic: The Gathering but can translate to any game.
+
+- #### [Lessons Learned Making Gunpoint Quickly Without Going Mad](https://www.youtube.com/watch?v=aXTOUnzNo64) [N/A]
+    - Interesting talk with some tips & tricks for the beginner game developer.

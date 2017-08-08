@@ -1,10 +1,14 @@
 # Hopson Resources
->A repository for sharing resources relating to areas like OpenGL, SFML, C++, Python etc.
+> A repository for sharing resources relating to areas like OpenGL, SFML, C++, Python etc.
 
-If you would like to contribute, Talk to me on [Hopson's Discord server](https://discord.gg/xvQaysR), review [CONTRIBUTING.md](https://github.com/Jackojc/HopsonResources/blob/master/CONTRIBUTING.md) and adhere to the styles in the examples directory.
+If you would like to contribute, Talk to me(Jackojc) on [Hopson's Discord server](https://discord.gg/xvQaysR), review [contributing guidelines](./CONTRIBUTING.md) and adhere to the [style](./examples/style.md) in the examples directory.
+
+
+### General
+- [Game Dev](./lists/gamedev.md)
 
 ### Graphics
-- [OpenGL](https://github.com/Jackojc/HopsonResources/blob/master/opengl/opengl.md)
+- [OpenGL](./lists/opengl.md)
 
 ### Languages
-- [Python](https://github.com/Jackojc/HopsonResources/blob/master/python/python.md)
+- [Python](./lists/python.md)
