@@ -90,3 +90,5 @@
 - #### [Handmade Hero](https://www.youtube.com/user/handmadeheroarchive/featured) [Advanced]
     - A long running game development series primarily centered around C++ but many concepts are discussed in abstract form allowing them to be used in any language.
 
+- #### [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) [Intermediate]
+    - Wide range of topics mostly relating to Unity Engine but the concepts are universal and are fairly easy to translate to other mediums.
