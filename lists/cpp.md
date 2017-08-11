@@ -40,7 +40,10 @@
     - Lecture about writing a good code in C++ using standard library, instead of reimplementing existing algorithms
     
 - #### [Bjarne Strostrup: C++11 Style](https://www.youtube.com/watch?v=Bd4Y589Gnrc) [N/A]
-    - Lecture about writing better C++11 code
+    - Lecture about writing better code, using C++11 style and features
+
+- #### [CppCon 2015: Bjarne Stroustrup “Writing Good C++14”](https://www.youtube.com/watch?v=1OEu9C51K2A) [N/A]
+    - Lecture about writing good C++14 code
     
 - #### [rand() Considered Harmful](https://channel9.msdn.com/Events/GoingNative/2013/rand-Considered-Harmful) [N/A]
     - Lecture about "why you should use C++11 random generation, than old rand()"
