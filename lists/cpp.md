@@ -38,6 +38,12 @@
 
 - #### [C++ Seasoning - GoingNative 2013 - Sean Parent](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) [Intermediate]
     - Lecture about writing a good code in C++ using standard library, instead of reimplementing existing algorithms
+    
+- #### [Bjarne Strostrup: C++11 Style](https://www.youtube.com/watch?v=Bd4Y589Gnrc) [N/A]
+    - Lecture about writing better C++11 code
+    
+- #### [rand() Considered Harmful](https://channel9.msdn.com/Events/GoingNative/2013/rand-Considered-Harmful) [N/A]
+    - Lecture about "why you should use C++11 random generation, than old rand()"
 
 ### Books
 
