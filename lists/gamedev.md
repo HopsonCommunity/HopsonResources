@@ -53,7 +53,8 @@
 - #### [Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) [Intermediate]
     - Short but informative explanation of an entity component system style architecture.
 
-
+- #### [Quad Tree Implentation](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374)[Advanced]
+    - Short article/ tutorial about quad tree implementation.
 
 ### Books
 
