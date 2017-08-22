@@ -3,6 +3,8 @@
 
 If you would like to contribute, Talk to me(Jackojc) on [Hopson's Discord server](https://discord.gg/xvQaysR), review [contributing guidelines](./CONTRIBUTING.md) and adhere to the [style](./examples/style.md) in the examples directory.
 
+## Other Sources
+- [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 
 ### General
 - [Game Dev](./lists/gamedev.md)
