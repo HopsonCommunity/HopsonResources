@@ -31,7 +31,7 @@
 - #### [OpenGL 4 Reference](https://www.khronos.org/registry/OpenGL-Refpages/gl4//) [N/A]
 	- Quick reference index for modern OpenGL including version 3.3. Also contains references for GLSL.
 	
-- #### [OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (9th Edition)](https://www.amazon.com/OpenGL-Programming-Guide-Official-Learning/dp/0134495497)
+- #### [OpenGL Programming Guide (9th Edition)](https://www.amazon.com/OpenGL-Programming-Guide-Official-Learning/dp/0134495497) [N/A]
 	- Great book for learning OpenGL up to 4.5.
 ### Techniques
 
