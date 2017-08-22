@@ -30,6 +30,9 @@
 
 - #### [OpenGL 4 Reference](https://www.khronos.org/registry/OpenGL-Refpages/gl4//) [N/A]
 	- Quick reference index for modern OpenGL including version 3.3. Also contains references for GLSL.
+	
+- #### [OpenGL Programming Guide (9th Edition)](https://www.amazon.com/OpenGL-Programming-Guide-Official-Learning/dp/0134495497) [N/A]
+	- Great book for learning OpenGL up to 4.5.
 ### Techniques
 
 
@@ -37,9 +40,7 @@
 
 
 ### Tutorials
-
-
-
-
+- #### [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) [Beginner - Intermediate]
+	- Java OpenGL tutorials, can easily be translated to another programming language.
 
 ### Examples
