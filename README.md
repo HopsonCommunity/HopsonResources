@@ -16,3 +16,5 @@ If you would like to contribute, Talk to me(Jackojc) on [Hopson's Discord server
 - [Python](./lists/python.md)
 
 - [C++](./lists/cpp.md)
+
+- [Java](./lists/java.md)

@@ -1,13 +1,14 @@
 # Java
 
 ### Types of content:
+
 - Talks
 - Articles/Blogs/Docs
 - Books
 
 > Most of the material will require at least beginner level knowledge of Java. If you don't know the language - get the book.
 
-### Constributors 
+### Contributors 
 
 - ym1234
 
@@ -31,7 +32,7 @@
 ### Books
 
 
-- #### [Intro to Java Programming, Comprehensive Version (9th Edition)](https://www.amazon.com/Introduction-Java-Programming-Comprehensive-Version/dp/0132936526) [Beginner - Intermediate]
+- #### [Intro to Java Programming, Comprehensive Version (9th Edition)](https://www.amazon.com/Introduction-Java-Programming-Comprehensive-Version/dp/0132936526) [Beginner]
 	- A great introduction to Java.
 
 - #### [Thinking In Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486) [Beginner - Intermediate]
