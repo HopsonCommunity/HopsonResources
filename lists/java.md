@@ -31,10 +31,6 @@
 
 ### Books
 
-
-- #### [Intro to Java Programming, Comprehensive Version (9th Edition)](https://www.amazon.com/Introduction-Java-Programming-Comprehensive-Version/dp/0132936526) [Beginner]
-	- A great introduction to Java.
-
 - #### [Thinking In Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486) [Beginner - Intermediate]
 	- Recommended to C++ Programmers who want to learn Java.
 
