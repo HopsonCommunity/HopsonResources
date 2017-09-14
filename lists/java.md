@@ -5,6 +5,7 @@
 - Talks
 - Articles/Blogs/Docs
 - Books
+- Tutorials
 
 > Most of the material will require at least beginner level knowledge of Java. If you don't know the language - get the book.
 
@@ -36,3 +37,9 @@
 
 - #### [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) [Intermediate]
 	- Java's best practices.
+	
+### Tutorials 
+
+- #### [University of Helsinki's Object-Oriented programming with Java Tutorial](http://mooc.fi/courses/2013/programming-part-1/) [Beginner]
+	- A great introduction to Java for Non-Programmers.
+
