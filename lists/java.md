@@ -40,6 +40,6 @@
 	
 ### Tutorials 
 
-- #### [University of Helsinki's Object-Oriented programming with Java Tutorial](http://mooc.fi/courses/2013/programming-part-1/) [Beginner]
+- #### [University of Helsinki's Object-Oriented programming with Java Course](http://mooc.fi/courses/2013/programming-part-1/) [Beginner]
 	- A great introduction to Java for Non-Programmers.
 
