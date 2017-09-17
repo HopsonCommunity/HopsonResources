@@ -11,7 +11,7 @@ If you would like to contribute, Talk to me(Jackojc) on [Hopson's Discord server
 
 ### Graphics
 - [OpenGL](./lists/opengl.md)
-- [Vulkan Api](.:list/vulkan.md)
+- [Vulkan Api](./list/vulkan.md)
 
 ### Languages
 - [Python](./lists/python.md)
