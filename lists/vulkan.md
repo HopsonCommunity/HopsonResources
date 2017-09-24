@@ -42,6 +42,9 @@
 - #### [Vulkan API tutorials](https://www.youtube.com/playlist?list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P) [Intermediate - Advanced]
 	- Vulkan (C++) tutorials. These tutorials are more comprehensive, but not thorough enough for a beginner. 
   Therefore, I advise to follow these tutorials only if you are already comfortable with OpenGL 3.3, and of course, C++14.
+ 
+- #### [Vulkan API official tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.61.1/windows/tutorial/html/index.html) [Beginner - Advanced]
+	- Vulkan (C++) tutorials. This tutorial is clearly the best on the net. You'll see all the steps, and learn how to use Vulkan and its tools really quickly. I highly recommend it.
 
 ### Examples
 
