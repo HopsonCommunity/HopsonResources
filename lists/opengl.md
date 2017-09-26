@@ -42,5 +42,8 @@
 ### Tutorials
 - #### [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) [Beginner - Intermediate]
 	- Java OpenGL tutorials, can easily be translated to another programming language.
+	
+- #### [3D Computer Graphics Using OpenGL](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) [Beginner - Intermediate]
+    - Easy to follow C++ (MSVC 2012, Windows) OpenGL tutorial.
 
 ### Examples
