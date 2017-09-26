@@ -5,6 +5,7 @@ If you would like to contribute, Talk to me(Jackojc) on [Hopson's Discord server
 
 ## Other Sources
 - [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ### General
 - [Game Dev](./lists/gamedev.md)
