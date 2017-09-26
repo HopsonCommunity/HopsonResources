@@ -20,7 +20,8 @@
 
 # Resources
 
-
+- #### [Python Exercises](http://exercism.io/languages/python/exercises) [Beginner - Intermediate]
+    - Some interesting exercises to do in Python if you're stuck for ideas.
 
 
 
