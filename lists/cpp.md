@@ -19,6 +19,9 @@
 
 - #### [C++ Reference](http://en.cppreference.com/w/) [N/A]
     - Best online C and C++ languages reference, containing all the informations you need about standard library and the language, up to newest standards. First choice, if we need some kind of algorithm or container, to search for.
+    
+- #### [Modern C++ Feature Cheatsheet](https://github.com/AnthonyCalandra/modern-cpp-features) [N/A]
+    - A comprehensive cheatsheet which is handy for getting an overview of new language features.
 
 ### FAQ's
 
