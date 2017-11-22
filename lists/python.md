@@ -53,7 +53,11 @@
 - #### [Pycon 2017 Archive](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg) [Beginner - Advanced]
     - An archive of videos from Pycon 2017 which features a range of topics.
 
-
+- #### [Easy wins with Cython: fast and multi-core](https://www.youtube.com/watch?v=NfnMJMkhDoQ) [Advanced]
+    - Video demonstrating some of the benefits you can achieve when using Cython.
+    
+- #### [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) [Intermediate - Advanced]
+    - Demonstrates some good guidelines for how to optimise code and when. Some interesting techniques for speedup too.
 
 
 
