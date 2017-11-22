@@ -1,6 +1,7 @@
 # Python
 
 ### Types of content:
+- Fast Python
 - Talks
 - Articles/Blogs
 - Books
@@ -21,7 +22,22 @@
 # Resources
 
 
+### Fast Python
 
+- #### [Numba](https://numba.pydata.org/) [Intermediate]
+    - A JIT tool for compiling certain functions for significant speedups. This is useful for CPU heavy code.
+    
+- #### [PyPy](http://pypy.org/) [Intermediate]
+    - A JIT based interpreter for Python. Has support for Python 2 and 3. This is useful for CPU heavy code.
+    
+- #### [Cython](http://cython.org/) [Advanced]
+    - Cython is an optimising static compiler for Python that allows you to easily write C extensions to allow for big speedups in code. This is useful for CPU heavy code.
+
+- #### [Stackless Python](https://bitbucket.org/stackless-dev/stackless/wiki/Home) [Advanced]
+    - Stackless Python is very useful for highly parallelized, IO bound tasks. It uses microtasks which are not true threads according to the OS. Stackless does not change your code structure in any major ways so it is quite compatible with regular Python code.
+    
+- #### [uvloop](https://github.com/MagicStack/uvloop) [Intermediate]
+    - A drop-in replacement for the standard Python asyncio event loop. Very useful for IO bound tasks like web requests. Typical speedup over the default event loop is anywhere in the range of 2x to 4x.
 
 
 ### Talks
