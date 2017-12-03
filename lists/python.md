@@ -3,7 +3,7 @@
 ### Types of content:
 - Fast Python
 - Talks
-- Articles/Blogs
+- Articles/Blogs/Docs
 - Books
 - Tutorials
 - Libraries
@@ -65,7 +65,10 @@
 
 
 
-### Articles/Blogs
+### Articles/Blogs/Docs
+
+- #### [Python 3.6.2 Documentation](https://docs.python.org/3/index.html) [Beginner - Advanced]
+    - A great resource for reading up on the python standard library, various syntax and language elements, setup & usage and even a tutorial. Great resource for beginners and advanced users alike.
 
 - #### [My top 5 Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) [N/A]
     - Five interesting Python modules that you should check out.
@@ -94,7 +97,8 @@
 - #### [Code Academy Python Course](https://www.codecademy.com/learn/learn-python) [Beginner]
     - A decent introductory course for a complete novice to Python.
 
-
+- #### [Python Exercises](http://exercism.io/languages/python/exercises) [Beginner - Intermediate]
+    - Some interesting exercises to do in Python if you're stuck for ideas.
 
 
 
