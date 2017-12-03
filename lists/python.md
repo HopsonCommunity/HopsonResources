@@ -1,6 +1,7 @@
 # Python
 
 ### Types of content:
+- Fast Python
 - Talks
 - Articles/Blogs/Docs
 - Books
@@ -20,9 +21,23 @@
 
 # Resources
 
-- #### [Python Exercises](http://exercism.io/languages/python/exercises) [Beginner - Intermediate]
-    - Some interesting exercises to do in Python if you're stuck for ideas.
 
+### Fast Python
+
+- #### [Numba](https://numba.pydata.org/) [Intermediate]
+    - A JIT tool for compiling certain functions for significant speedups. This is useful for CPU heavy code.
+    
+- #### [PyPy](http://pypy.org/) [Intermediate]
+    - A JIT based interpreter for Python. Has support for Python 2 and 3. This is useful for CPU heavy code.
+    
+- #### [Cython](http://cython.org/) [Advanced]
+    - Cython is an optimising static compiler for Python that allows you to easily write C extensions to allow for big speedups in code. This is useful for CPU heavy code.
+
+- #### [Stackless Python](https://bitbucket.org/stackless-dev/stackless/wiki/Home) [Advanced]
+    - Stackless Python is very useful for highly parallelized, IO bound tasks. It uses microtasks which are not true threads according to the OS. Stackless does not change your code structure in any major ways so it is quite compatible with regular Python code.
+    
+- #### [uvloop](https://github.com/MagicStack/uvloop) [Intermediate]
+    - A drop-in replacement for the standard Python asyncio event loop. Very useful for IO bound tasks like web requests. Typical speedup over the default event loop is anywhere in the range of 2x to 4x.
 
 
 ### Talks
@@ -38,7 +53,11 @@
 - #### [Pycon 2017 Archive](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg) [Beginner - Advanced]
     - An archive of videos from Pycon 2017 which features a range of topics.
 
-
+- #### [Easy wins with Cython: fast and multi-core](https://www.youtube.com/watch?v=NfnMJMkhDoQ) [Advanced]
+    - Video demonstrating some of the benefits you can achieve when using Cython.
+    
+- #### [Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI) [Intermediate - Advanced]
+    - Demonstrates some good guidelines for how to optimise code and when. Some interesting techniques for speedup too.
 
 
 
@@ -78,7 +97,8 @@
 - #### [Code Academy Python Course](https://www.codecademy.com/learn/learn-python) [Beginner]
     - A decent introductory course for a complete novice to Python.
 
-
+- #### [Python Exercises](http://exercism.io/languages/python/exercises) [Beginner - Intermediate]
+    - Some interesting exercises to do in Python if you're stuck for ideas.
 
 
 
