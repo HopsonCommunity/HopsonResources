@@ -39,6 +39,8 @@
 - #### [uvloop](https://github.com/MagicStack/uvloop) [Intermediate]
     - A drop-in replacement for the standard Python asyncio event loop. Very useful for IO bound tasks like web requests. Typical speedup over the default event loop is anywhere in the range of 2x to 4x.
 
+- #### [lazyasd](https://github.com/xonsh/lazyasd) [Advanced]
+    - A package that provides lazy and self-destructive tools for speeding up module imports.
 
 ### Talks
 
