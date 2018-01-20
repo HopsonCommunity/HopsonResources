@@ -3,11 +3,9 @@
 
 If you would like to contribute, Talk to me(Jackojc) on [Hopson's Discord server](https://discord.gg/xvQaysR), review [contributing guidelines](./CONTRIBUTING.md) and adhere to the [style](./examples/style.md) in the examples directory.
 
-## Other Sources
-- [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+[General resources](./lists/general.md)
 
-### General
+### Areas of interest
 - [Game Dev](./lists/gamedev.md)
 
 ### Graphics
